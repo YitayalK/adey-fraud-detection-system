@@ -2,13 +2,21 @@
 numpy
 pandas
 scipy
+
 # Data Visualization
 matplotlib
 seaborn
+
 # Machine Learning & Model Building
 scikit-learn
 Keras 
 TensorFlow 
+
 # Model Evaluation & Explainability
 shap
 lime
+
+# Data Preprocessing
+imbalanced-learn  # Handling imbalanced datasets
+category_encoders  # Categorical feature encoding
+
