@@ -5,7 +5,7 @@ A machine learning pipeline for detecting fraudulent transactions, featuring geo
 
 ##  Overview
 This project addresses fraud detection in two domains:
-1. **E-commerce Transactions** (`Fraud_Data.csv`): Analyzes user behavior, device/IP data, and transaction patterns.
+1. **E-commerce Transactions** (`Fraud_Data.csv`): Analyzes user behavior,  and transaction patterns.
 2. **Bank Credit Transactions** (`creditcard.csv`): Uses anonymized PCA features for fraud prediction.
 
 Key components:
