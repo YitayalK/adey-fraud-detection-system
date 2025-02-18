@@ -9,3 +9,6 @@ seaborn
 scikit-learn
 Keras 
 TensorFlow 
+# Model Evaluation & Explainability
+shap
+lime
