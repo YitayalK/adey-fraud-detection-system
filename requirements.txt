@@ -5,3 +5,7 @@ scipy
 # Data Visualization
 matplotlib
 seaborn
+# Machine Learning & Model Building
+scikit-learn
+Keras 
+TensorFlow 
