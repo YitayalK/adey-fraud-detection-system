@@ -1,9 +1,9 @@
 # adey-fraud-detection-system
-# FraudGuard-MLOps: Real-Time Fraud Detection for E-commerce and Banking
+   Real-Time Fraud Detection for E-commerce and Banking
 
 A machine learning pipeline for detecting fraudulent transactions, featuring geolocation analysis, model explainability (SHAP/LIME), Flask/Docker deployment, and a Dash dashboard.
 
-## 📌 Overview
+##  Overview
 This project addresses fraud detection in two domains:
 1. **E-commerce Transactions** (`Fraud_Data.csv`): Analyzes user behavior, device/IP data, and transaction patterns.
 2. **Bank Credit Transactions** (`creditcard.csv`): Uses anonymized PCA features for fraud prediction.
@@ -15,7 +15,7 @@ Key components:
 - Real-time API using Flask and Docker
 - Interactive dashboard with Dash
 
-## 🚀 Features
+##  Features
 - **Geolocation Analysis**: Maps IP addresses to countries for fraud pattern detection.
 - **Multiple Models**: Traditional ML and deep learning (CNN, RNN, LSTM) implementations.
 - **MLOps Pipeline**: Experiment tracking with MLflow, Dockerized deployment.
